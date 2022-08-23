@@ -2,7 +2,7 @@
 
 [tinyurl.com/zhenchai123](https://tinyurl.com/zhenchai123)
 
-![thumbnail](thumb.jpeg)
+![thumbnail](./resources/thumb.jpeg)
 
 
 # License
