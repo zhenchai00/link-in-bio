@@ -1,7 +1,5 @@
 # link-in-bio
 
-[tinyurl.com/zhenchai123](https://tinyurl.com/zhenchai123)
-
 ![thumbnail](./resources/thumb.jpeg)
 
 
